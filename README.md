@@ -91,9 +91,9 @@ Please see the details on different kinds of time-series and statistical feature
 
 **`24SD`**: 24 hour's rolling standard deviation of price
 
-**`upperband`**: 24 hour's rolling mean price + 24 hour's rolling standard deviation of price
+**`upperband`**: 24 hour's rolling mean price + 24 hour's rolling standard deviation of price *2
 
-**`lowerband`**: 24 hour's rolling mean price - 24 hour's rolling standard deviation of price
+**`lowerband`**: 24 hour's rolling mean price - 24 hour's rolling standard deviation of price *2
 
 **`RC_24`**: Percentage of change in price in 24 hours
 
